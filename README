@@ -1,0 +1,45 @@
+# 📊 Market Campaign Analysis — Tableau Dashboard
+
+An end-to-end Tableau data analytics project analyzing cross-channel marketing campaign performance, revenue attribution, customer segment engagement, and order distribution across 100+ promotional campaigns.
+
+---
+
+## 🌟 Executive Summary
+
+* **Dashboard & Report Preparation:** Designed and developed an interactive **Market Campaign Analysis Tableau Dashboard** tracking cross-channel performance across 103 campaigns, analyzing ₹533M in revenue, 47.60K spend, and key metrics across platforms including WhatsApp, Email, Instagram, and Facebook.
+* **Achievements & Campaign Storytelling:** Revealed that **Apparel** is the primary revenue driver (₹12,093K), **Black Friday Awareness 2024** generated the highest order volume (16,037 orders), and **Gmail** dominates email order conversions, while highlighting WhatsApp delivery efficiency and web engagement drop-offs across funnel stages.
+* **Analytical Leadership & Soft Skills:** Applied **data-driven problem solving, strategic planning, and agile iterative development** to transform raw, multi-channel marketing data into clear, actionable business intelligence for stakeholder decision-making.
+
+---
+
+## 📈 Key Business Insights
+
+1. **Top Performing Categories & Campaigns:** 
+   * **Apparel** generates the highest sales volume and profit, followed by **Electronics Accessories** and **Beauty**.
+   * High-impact seasonal promotional pushes like **Black Friday Awareness 2024** and **Diwali Mega Sale 2024** yield the highest overall order volumes.
+
+2. **Channel Efficiency & Conversion Drivers:**
+   * **Gmail** is the dominant platform for email-driven orders compared to Yahoo, Outlook, or Apple Mail.
+   * **Instagram** significantly leads **Facebook** in driving top-of-funnel engagement and "Add-to-Cart" conversions.
+   * **WhatsApp** messaging exhibits strong delivery rates with high engagement across high-value customer segments like *All Subscribers* and *Lapsed 121–180 Days*.
+
+3. **Geographic Distribution & Payment Preferences:**
+   * Revenue and orders show high geographical concentration in major Indian states (e.g., Maharashtra, Karnataka, Uttar Pradesh).
+   * **Cash on Delivery (COD)** and **UPI** represent the primary payment channels utilized by customers.
+
+---
+
+## 💡 Strategic Business Recommendations
+
+* **Double Down on High-ROI Categories & Sales Events:** Reallocate marketing budget toward **Apparel** and **Electronics Accessories** during key seasonal promotional events to maximize overall revenue lift.
+* **Optimize Social & Email Channel Strategy:** Shift larger social ad budgets to **Instagram** for top-of-funnel acquisition, and optimize email campaigns specifically for **Gmail** layout rendering and delivery performance.
+* **Automate Re-engagement via WhatsApp:** Expand automated WhatsApp workflow triggers targeting **Lapsed 121–180 Days** users and **Cart Abandoners** to leverage high open and response rates.
+* **Streamline Localized Checkout Experience:** Optimize mobile checkout flows for **UPI** and **COD** payment methods, and deploy geo-targeted advertising in top-performing states.
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+* **Tableau Desktop / Tableau Public:** Interactive Data Visualization & Dashboard Design
+* **Data Sources:** Multi-channel marketing campaign data (WhatsApp, Email, Web Analytics, E-commerce transactions)
+* **Key Metrics Tracked:** Revenue, Spend, Order Volume, Click-Through Rate (CTR), Conversion Rate, Customer Segments
